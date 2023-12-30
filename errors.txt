@@ -1,0 +1,10 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/script.rpy", line 356: Line is indented, but the preceding show statement statement does not expect a block. Please check this line's indentation. You may have forgotten a colon (:).
+    co "Emily, this visit to the sanctuary is a great step. Understanding Luna's needs within the context of her natural environment and how it relates to the broader ecosystem is essential in One Health. The health of individual animals, like Luna, is deeply connected to the health of our entire planet."
+    ^
+
+Ren'Py Version: Ren'Py 8.2.0.23112302+nightly
+Sun Dec  3 22:57:41 2023

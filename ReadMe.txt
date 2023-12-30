@@ -1,0 +1,1 @@
+If you just Want to play the game download, the game, run the app and click the icon, and you should be good. 

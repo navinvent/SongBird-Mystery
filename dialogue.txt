@@ -1,0 +1,183 @@
+The SongBird Mystery
+Back
+History
+Skip
+Auto
+Save
+Q.Save
+Q.Load
+Prefs
+Start
+Load
+Preferences
+End Replay
+Main Menu
+About
+Help
+Version [config.version!t]
+
+Made with {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].
+
+[renpy.license!t]
+{#file_time}%A, %B %d %Y, %H:%M
+empty slot
+<
+{#auto_page}A
+{#quick_page}Q
+>
+Upload Sync
+Download Sync
+Display
+Window
+Unseen Text
+After Choices
+Transitions
+Text Speed
+Auto-Forward Time
+Music Volume
+Sound Volume
+Test
+Mute All
+The dialogue history is empty.
+Keyboard
+Mouse
+Enter
+Advances dialogue and activates the interface.
+Space
+Advances dialogue without selecting choices.
+Arrow Keys
+Navigate the interface.
+Escape
+Accesses the game menu.
+Ctrl
+Skips dialogue while held down.
+Tab
+Toggles dialogue skipping.
+Page Up
+Rolls back to earlier dialogue.
+Page Down
+Rolls forward to later dialogue.
+Hides the user interface.
+Takes a screenshot.
+Toggles assistive {a=https://www.renpy.org/l/voicing}self-voicing{/a}.
+Opens the accessibility menu.
+Left Click
+Middle Click
+Right Click
+Mouse Wheel Up
+Click Rollback Side
+Mouse Wheel Down
+Right Trigger
+A/Bottom Button
+Left Trigger
+Left Shoulder
+Right Shoulder
+D-Pad, Sticks
+Start, Guide, B/Right Button
+Y/Top Button
+Skipping
+Menu
+Songbird Mystery: An Inquisitive Journey
+Emily, a young bird enthusiast, discovers her pet songbird, Luna, looking unwell. She decides to uncover the truth behind Luna's illness.
+Chapter 1: A Concerning Change
+Luna has been less active lately and isn't singing as much. What should I do?
+Hello, Emily. What's troubling Luna?
+She's less active and not eating well. Could it be serious?
+Let's run some tests. Meanwhile, tell me about her diet and environment.
+Her diet hasn't changed, but she seems different.
+Let's talk about Luna's living environment. Birds are sensitive to their surroundings. Is her cage placed in a suitable location?
+Her cage is near the window. She loves looking outside, but maybe it's too drafty or noisy there?
+That could be a factor. Birds need a calm, stable environment. Avoid direct sunlight, loud noises, and strong smells. Also, how often do you clean her cage?
+I clean it once a week, but maybe that's not enough.
+Daily cleaning is important to prevent the build-up of harmful bacteria. Also, make sure her cage is spacious enough for her to move freely.
+I'll make those changes right away. Thank you for the advice.
+It's important to be aware of common bird diseases. Has Luna shown any signs of respiratory distress, changes in droppings, or feather loss?
+No, nothing like that. But I'm worried about infections or parasites.
+Good observation. Birds can be susceptible to various infections and parasites, both internal and external. Regular check-ups and a clean environment are key for prevention.
+I'll make sure she gets regular check-ups. Can you recommend any preventive treatments?
+Certainly. There are safe, effective treatments available. I'll give you more information about them.
+Thank you. I want to do everything I can to keep Luna healthy.
+Birds, like other pets, can experience stress and anxiety. Has Luna exhibited any changes in behavior that might suggest she's not feeling mentally well?
+She's been quieter and less active. Could that be a sign of stress?
+It's possible. Changes in behavior can indicate stress or discomfort. It's important to ensure she has enough mental stimulation. Toys, mirrors, and interaction with you can help.
+I didn't realize that mental stimulation was so important. I'll try to interact with her more and introduce new toys.
+That sounds like a great plan. Just like us, birds need both physical and mental care to stay healthy.
+Thank you for the insight. I'll pay more attention to her mental well-being.
+The internet has so much to offer. I need to find trustworthy information about bird health.
+Emily, I noticed you're worried about Luna. How can I help?
+Mom, Luna isn't herself lately. What should I do?
+Let's think about what might be affecting her. We can figure this out together.
+Maybe the experts here at the sanctuary can offer some insight into Luna's condition.
+Meeting with other bird lovers could provide different perspectives on Luna's situation.
+I wonder how environmental changes are affecting the birds. Maybe I can find some answers here in the park.
+This city park is a small oasis for birds amidst the urban landscape. How does urbanization affect them?
+I've heard that wildlife rehabilitation centers do amazing work with injured and sick birds. Maybe they can help Luna.
+Attending this climate change conference might shed light on how global changes are affecting birds like Luna.
+This university symposium on 'One Health' might help me understand the interconnectedness of human, animal, and environmental health.
+Getting involved in my community can help spread awareness about bird health. Let's see what I can do.
+Emily, I've noticed your interest in avian health lately. How about we integrate this into your next school project?
+That would be amazing! I've been learning so much about bird diseases and their environments. It's fascinating!
+Great! Let's design a project that explores the interplay between avian health, human activities, and environmental factors.
+This nature reserve is a haven for birds. Maybe the staff here can give me some insights into Luna's condition and how to create a bird-friendly environment at home.
+Thank you for playing Songbird Mystery!
+Consult a local veterinarian.
+Start researching online.
+Talk to Mom for advice.
+Visit a local bird sanctuary for insights.
+Join a local bird lovers' community group.
+Discuss dietary habits.
+Talk about Luna's environment.
+Inquire about common bird diseases.
+Ask about mental health in birds.
+Return to previous topics.
+Continue with the consultation.
+Read expert blogs on bird care.
+Participate in online forums for bird owners.
+Watch educational videos about bird health.
+Look up scientific research on avian diseases.
+Discuss Luna's recent behavior changes.
+Talk about nutrition and diet.
+Consider environmental factors.
+Explore natural remedies and care.
+Consult with the sanctuary's avian veterinarian.
+Join a bird health workshop.
+Observe and learn from the birds in the sanctuary.
+Talk to a bird behavior specialist.
+Share experiences with the group.
+Attend a talk by a bird health expert.
+Participate in a group bird-watching activity.
+Seek advice from experienced bird owners.
+Talk to an environmental scientist visiting the park.
+Participate in a local environmental conservation workshop.
+Observe the park's ecosystem and its impact on birds.
+Collect data for a citizen science project on birds.
+Interview a city planner about green spaces and bird habitats.
+Attend a seminar on urban wildlife.
+Join a bird watching group in the city.
+Research the impact of urbanization on bird health.
+Consult with a wildlife rehabilitator about Luna's condition.
+Volunteer at the center to learn more about bird care.
+Attend a rehabilitation center open house.
+Learn about the process of rehabilitating wild birds.
+Listen to a keynote speech on climate change and wildlife.
+Join a panel discussion on adaptive strategies for wildlife.
+Participate in a workshop on building bird-friendly habitats.
+Collaborate with climate activists on an awareness campaign.
+Attend a lecture on the One Health approach.
+Participate in a group discussion on zoonotic diseases.
+Visit a laboratory researching avian diseases.
+Interview a One Health expert for a school project.
+Organize a community meeting on bird conservation.
+Set up an information booth at the local fair.
+Start a neighborhood watch for injured or sick birds.
+Collaborate with a local NGO on a bird protection project.
+Develop a presentation on avian diseases and prevention.
+Conduct a survey on local bird populations and habitats.
+Create an educational video on bird care and health.
+Organize a school event focused on wildlife conservation.
+Join a guided nature walk to learn about local bird species.
+Participate in a bird banding activity to understand migration patterns.
+Attend a talk on the impact of urbanization on birds.
+Volunteer in habitat restoration efforts at the reserve.
+Restart the Game
+Exit Game
